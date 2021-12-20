@@ -4,4 +4,4 @@ This repository contains a python implementation of the key analyses in the manu
 
 The data folder contains RDMs and masks needed for the analyses, and the code folder contains functions and example scripts for the key analyses. Each subfolder in the data folder also contains a readme.txt file to explain the content of the data files. 
 
-The code was writen in Python 3, Python packages required for running those analyese include `numpy`, `scipy`, and `rpy2`. R package `vegan` is also required for running the variance partitioning analysis.
+The code was writen in Python 3, Python packages required for running those analyses include `numpy`, `scipy`, and `rpy2`. R package `vegan` is also required for running the variance partitioning analysis.
