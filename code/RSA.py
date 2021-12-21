@@ -22,7 +22,7 @@ def run_rsa(vrdm1, vrdm2):
 
 if __name__ == '__main__':
     ### Below shows the example code to run RSA between DCNN, neural, and behavioral RDMs.
-    ### Other possbile parameters are available in the comment above each chosen one.
+    ### Other possbile parameters are available in the comment.
     roi = 'raFFA'  # roi: 'raFFA', 'laFFA'
     run = 0  # run: 0, 1, 2, ..., 11
     dcnn_idx = 0

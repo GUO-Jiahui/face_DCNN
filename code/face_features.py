@@ -30,7 +30,7 @@ if __name__ == '__main__':
     Below shows the example code to calculate difference in the between- and within-group distance
     of an example face feature in the z-scored representational geometries
     of the behavioral arrangement task, of an example layer in a DCNN, and of a neural ROI.
-    Other possbile parameters are available in the comment above each chosen one.
+    Other possbile parameters are available in the comment.
     Difference was calculated in each run, and averaged across runs.
     """
 
