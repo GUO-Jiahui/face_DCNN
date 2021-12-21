@@ -6,4 +6,4 @@ The data folder contains RDMs and masks needed for the analyses, and the code fo
 
 The code was writen in Python 3, Python packages required for running those analyses include `numpy`, `scipy`, and `rpy2`. R package `vegan` is also required for running the variance partitioning analysis.
 
-To download the sample data, click the "release" section in the right panel.
+The sample data can be downloaded from the Release of the repository: https://github.com/GUO-Jiahui/not_so_fast/releases/download/1.0.0/data.zip
