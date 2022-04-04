@@ -1,4 +1,4 @@
-## Not so fast: Limited validity of deep convolutional neural networks as _in silico_ models for human naturalistic face processing
+## Modeling naturalistic face processing in humans with deep convolutional neural networks
 
 This repository contains a python implementation of the key analyses in the manuscript by Guo Jiahui<sup>†\*</sup>, Ma Feilong<sup>†\*</sup>, Matteo Visconti di Oleggio Castello, Samuel A. Nastase, James V. Haxby, & M. Ida Gobbini <sup>\*</sup> (2021). https://doi.org/10.1101/2021.11.17.469009
 
