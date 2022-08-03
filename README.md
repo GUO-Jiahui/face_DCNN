@@ -21,7 +21,7 @@ The code was writen in Python 3, Python packages required for running those anal
 #### Other Package Dependencies
 R package `vegan` is required for running the variance partitioning analysis.
 
-## Instrallation, Setup, and Documentation
+## Installation, Setup, and Documentation
 
 Running our code only requires a standard Python3 and R environment with dependencies as above. No extra installation is required.
 
